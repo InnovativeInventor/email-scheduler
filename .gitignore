@@ -1,0 +1,9 @@
+.env
+**/.env
+**/node_modules
+**/lib
+**/activate
+**/bin
+**/.serverless
+**/__pycache__
+**/package-lock.json
